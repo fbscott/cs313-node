@@ -22,9 +22,9 @@
             "app.json",
             "composer.json",
             "composer.lock",
-            "package-lock.json",
             "Procfile",
-            "PROJ_cs313-node.sublime-project"
+            "PROJ_cs313-node.sublime-project",
+            "package-lock.json"
          ]
       }
    ]
