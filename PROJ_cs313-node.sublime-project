@@ -1,0 +1,31 @@
+{
+   "folders":
+   [
+      {
+         "path": ".",
+         "folder_exclude_patterns":
+         [
+            ".git",
+            "node_modules"
+         ],
+         "file_exclude_patterns":
+         [
+            ".env",
+            "*.doc",
+            "*.docx",
+            "*.pdf",
+            "*.ppt",
+            "*.pptx",
+            "*.xls",
+            "*.xlsx",
+            "*.zip",
+            "app.json",
+            "composer.json",
+            "composer.lock",
+            "package-lock.json",
+            "Procfile",
+            "PROJ_cs313-node.sublime-project"
+         ]
+      }
+   ]
+}

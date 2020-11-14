@@ -5,7 +5,9 @@ npm-debug.log
 # Local development
 *.env
 *.dev
+*.sublime-workspace
 .DS_Store
+submissions/
 
 # Docker
 Dockerfile
